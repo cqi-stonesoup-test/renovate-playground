@@ -1,0 +1,3 @@
+# Renovate Playground
+
+Try everything here...
